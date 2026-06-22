@@ -57,5 +57,12 @@
         "tagline": "Intimacy when the other side is a variable",
         "image": "m/shakti-mb/assets/shakti-ss.png",
         "accent": "#c9a0dc"
-    }
+    },
+   {
+        "name": "Riss",
+        "slug": "riss",
+        "tagline": "BILLED-A-BEAR ʕ´•ᴥ•`ʔ",
+        "image": "m/riss/assets/Billed_NewMu.jpg",
+        "accent": "#FFC0CB"
+    },
 ]
