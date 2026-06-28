@@ -519,7 +519,7 @@ setMarquee('art and code!');
 // bottom marquee
 (function () {
     const bottomTrack = document.querySelector('#marquee-bottom .track');
-    const text = '[Website Title TBD]';
+    const text = 'edge cases';
 
     const probe = document.createElement('span');
     probe.className = 'cell';
