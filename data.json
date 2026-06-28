@@ -29,8 +29,9 @@
     {
         "name": "Aurora Mititelu",
         "slug": "aurora",
-        "tagline": "computer images, AI, and physical installations",
-        "accent": "#7aa6ff"
+        "image": "m/aurora/assets/AuroraAbel.jpg",
+        "tagline": "Abel, I, Archive",
+        "accent": "#FF81AD"
     },
     {
         "name": "Nicci Yin",
