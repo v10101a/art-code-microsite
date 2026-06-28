@@ -3,16 +3,59 @@
         "name": "viola he",
         "slug": "viola",
         "tagline": "hello",
-        "accent": "#c8ff00",
-        "x": 400,
-        "y": 400
+        "accent": "#c8ff00"
     },
     {
-        "name": "anna zhang",
-        "slug": "viola",
-        "tagline": "hello",
-        "accent": "#ff6b4a",
-        "x": 200,
-        "y": 200
+        "name": "Anna Zhang",
+        "slug": "anna-zhang",
+        "tagline": "Orientation Over Optimization: Prompted, an AI you think with, not one that thinks for you",
+        "image": "m/anna-zhang/assets/Prompted-Hero.png",
+        "accent": "#17171c1A"
+    },
+    {
+        "name": "X. A. Li",
+        "slug": "xali-consensus",
+        "tagline": "Consensus: On Fragments and Formations",
+        "image": "https://storage.googleapis.com/xa-li-com/assets/media/2025/consensus/xali_consensus_2025_015.jpg",
+        "accent": "red"
+    },
+    {
+        "name": "Karlie Zhao",
+        "slug": "karlie",
+        "tagline": "Sounding Textiles",
+        "image": "m/karlie/assets/01sm.png",
+        "accent": "#f9ff4c"
+    },
+    {
+        "name": "Aurora Mititelu",
+        "slug": "aurora",
+        "tagline": "computer images, AI, and physical installations",
+        "accent": "#7aa6ff"
+    },
+    {
+        "name": "Nicci Yin",
+        "slug": "nicci",
+        "tagline": "Notes on misusing interfaces",
+        "image": "m/nicci/assets/test.png",
+        "accent": "#6636061A"
+    },
+    {
+        "name": "Tara Kelton",
+        "slug": "tara-kelton",
+        "tagline": "Microrest",
+        "accent": "#eeeded"
+    },
+    {
+        "name": "Morry Kolman",
+        "slug": "morry",
+        "tagline": "First Light: Emergence",
+        "accent": "#bfb45c"
+    },
+    {
+        "name": "Shakti Mb",
+        "slug": "shakti-mb",
+        "tagline": "Intimacy when the other side is a variable",
+        "image": "m/shakti-mb/assets/shakti-ss.png",
+        "accent": "#c9a0dc"
     }
 ]
