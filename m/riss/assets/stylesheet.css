@@ -1,0 +1,38 @@
+/* Container to give the bear room to walk */
+.bear-container {
+  width: 100%;
+  max-width: 500px;
+  border-bottom: 2px solid #ccc;
+  padding: 10px 0;
+  overflow: hidden;
+}
+
+/* The bear element and its animation settings */
+.bear {
+  font-size: 50px;
+  width: max-content;
+  /* 
+    bear-walk: Name of keyframes
+    4s: Duration of one-way trip
+    linear: Consistent speed
+    infinite: Repeats forever
+    alternate: Moves forward, then backward automatically
+  */
+  animation: bear-walk 4s linear infinite alternate;
+}
+
+/* Keyframes handling distance and flipping direction */
+@keyframes bear-walk {
+  0% {
+    transform: translateX(0) scaleX(1);
+  }
+  49.9% {
+    transform: translateX(350px) scaleX(1); /* Keep facing right right before reaching destination */
+  }
+  50% {
+    transform: translateX(350px) scaleX(-1); /* Instantly flip horizontally to face left */
+  }
+  100% {
+    transform: translateX(0) scaleX(-1); /* Walk backward to starting point while facing left */
+  }
+}
